@@ -31,4 +31,4 @@ My first Unity project - a simple 2D adventure game. It is part of **GAME PROGRA
 <br>
 <br>
 By Tianyue Fang<br>
-[LinkedIn](https://www.linkedin.com/in/tianyuefang/)
+[LinkedIn] https://www.linkedin.com/in/tianyuefang/
